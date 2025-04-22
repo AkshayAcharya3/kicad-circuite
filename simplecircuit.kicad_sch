@@ -619,7 +619,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal"
 			(at 85.09 84.328 90)
 			(effects
 				(font
@@ -687,7 +687,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
 			(at 66.04 95.25 0)
 			(effects
 				(font
@@ -757,7 +757,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 101.6 91.44 0)
 			(effects
 				(font
